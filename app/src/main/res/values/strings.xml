@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExampleTransferDataFromFragmentAtoFragmentB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_data">Введите данные пользователя:</string>
+    <string name="name_hint">Введите имя</string>
+    <string name="age_hint">Введите возраст</string>
+    <string name="additional_hint">Введите дополнительную информацию</string>
+    <string name="sent">Отправить</string>
+</resources>
